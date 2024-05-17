@@ -1,2 +1,2 @@
 # GAI_practice
-my GAI practice file
+GAI practice file
